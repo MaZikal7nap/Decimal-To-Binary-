@@ -1,2 +1,1 @@
-# code
-decimal to binary by me...
+# Decimal To Binary In C
